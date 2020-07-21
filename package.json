@@ -1,0 +1,29 @@
+{
+  "name": "web-scraping-nodejs",
+  "version": "1.0.0",
+  "description": "Web Scraping with nodejs from tuquinelateete.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristhiantorres/web-scraping-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webscraping"
+  ],
+  "author": "Cristhian Torres (cristhiantorres)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristhiantorres/web-scraping-nodejs/issues"
+  },
+  "homepage": "https://github.com/cristhiantorres/web-scraping-nodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^5.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
